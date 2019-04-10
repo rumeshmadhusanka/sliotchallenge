@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0324ca41-2a3e-4af2-9137-b110598c75fb" name="Default Changelist" comment="" />
+    <list default="true" id="0324ca41-2a3e-4af2-9137-b110598c75fb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,9 +16,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="1026" column="29" lean-forward="true" selection-start-line="1026" selection-start-column="29" selection-end-line="1026" selection-end-column="29" />
+            <state relative-caret-position="-5719">
+              <caret line="73" column="61" selection-start-line="73" selection-start-column="61" selection-end-line="73" selection-end-column="61" />
               <folding>
+                <element signature="e#2441#2447#0" expanded="true" />
                 <element signature="e#45010#45016#0" expanded="true" />
               </folding>
             </state>
@@ -24,12 +28,29 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>annua</find>
+      <find>img</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="470" />
     <option name="y" value="255" />
     <option name="width" value="940" />
     <option name="height" value="1090" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -43,6 +64,11 @@
             <path>
               <item name="sliotchallenge" type="b2602c69:ProjectViewProjectNode" />
               <item name="sliotchallenge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sliotchallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sliotchallenge" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -80,12 +106,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554856348955</updated>
-      <workItem from="1554856350631" duration="271000" />
+      <workItem from="1554856350631" duration="2715000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1554856729600</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554856729600</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changed image">
+      <created>1554858410215</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1554858410215</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="271000" />
+    <option name="totallyTimeSpent" value="2715000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="-7" width="1487" height="878" extended-state="6" />
@@ -120,15 +161,23 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="init" />
+    <MESSAGE value="changed image" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed image" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/speaker-details.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="1026" column="29" lean-forward="true" selection-start-line="1026" selection-start-column="29" selection-end-line="1026" selection-end-column="29" />
+        <state relative-caret-position="-5719">
+          <caret line="73" column="61" selection-start-line="73" selection-start-column="61" selection-end-line="73" selection-end-column="61" />
           <folding>
+            <element signature="e#2441#2447#0" expanded="true" />
             <element signature="e#45010#45016#0" expanded="true" />
           </folding>
         </state>
