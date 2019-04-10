@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0324ca41-2a3e-4af2-9137-b110598c75fb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,9 +16,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1805">
-              <caret line="95" column="105" lean-forward="true" selection-start-line="95" selection-start-column="105" selection-end-line="95" selection-end-column="105" />
+            <state relative-caret-position="304">
+              <caret line="510" column="23" selection-start-line="510" selection-start-column="23" selection-end-line="510" selection-end-column="23" />
               <folding>
+                <element signature="n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#0;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -38,6 +40,7 @@
       <find>sliot</find>
       <find>sl iot</find>
       <find>galle</find>
+      <find>button</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -128,7 +131,7 @@
       <option name="presentableId" value="Default" />
       <updated>1554856348955</updated>
       <workItem from="1554856350631" duration="7616000" />
-      <workItem from="1554874477568" duration="1742000" />
+      <workItem from="1554874477568" duration="3645000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1554856729600</created>
@@ -214,14 +217,29 @@
       <option name="project" value="LOCAL" />
       <updated>1554876249149</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="changed theme color to red">
+      <created>1554876339413</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1554876339413</updated>
+    </task>
+    <task id="LOCAL-00014" summary="description meta">
+      <created>1554877503703</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1554877503703</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9358000" />
+    <option name="totallyTimeSpent" value="11261000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="-7" width="1487" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16958654" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -266,7 +284,9 @@
     <MESSAGE value="added theme color meta" />
     <MESSAGE value="section header" />
     <MESSAGE value="Edited the about section" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edited the about section" />
+    <MESSAGE value="changed theme color to red" />
+    <MESSAGE value="description meta" />
+    <option name="LAST_COMMIT_MESSAGE" value="description meta" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/speaker-details.html">
@@ -274,9 +294,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1805">
-          <caret line="95" column="105" lean-forward="true" selection-start-line="95" selection-start-column="105" selection-end-line="95" selection-end-column="105" />
+        <state relative-caret-position="304">
+          <caret line="510" column="23" selection-start-line="510" selection-start-column="23" selection-end-line="510" selection-end-column="23" />
           <folding>
+            <element signature="n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#0;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
