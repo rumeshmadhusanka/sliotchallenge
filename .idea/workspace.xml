@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0324ca41-2a3e-4af2-9137-b110598c75fb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5719">
-              <caret line="73" column="61" selection-start-line="73" selection-start-column="61" selection-end-line="73" selection-end-column="61" />
+            <state relative-caret-position="228">
+              <caret line="12" column="47" lean-forward="true" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
               <folding>
                 <element signature="e#2441#2447#0" expanded="true" />
                 <element signature="e#45010#45016#0" expanded="true" />
@@ -32,6 +33,7 @@
     <findStrings>
       <find>annua</find>
       <find>img</find>
+      <find>day</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -106,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554856348955</updated>
-      <workItem from="1554856350631" duration="2715000" />
+      <workItem from="1554856350631" duration="3750000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1554856729600</created>
@@ -122,11 +124,25 @@
       <option name="project" value="LOCAL" />
       <updated>1554858410215</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="removed 2 sections">
+      <created>1554859226630</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1554859226630</updated>
+    </task>
+    <task id="LOCAL-00004" summary="deleted event buttons">
+      <created>1554859500905</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554859500905</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2715000" />
+    <option name="totallyTimeSpent" value="3750000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="-7" width="1487" height="878" extended-state="6" />
@@ -166,7 +182,9 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="init" />
     <MESSAGE value="changed image" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed image" />
+    <MESSAGE value="removed 2 sections" />
+    <MESSAGE value="deleted event buttons" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted event buttons" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/speaker-details.html">
@@ -174,8 +192,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5719">
-          <caret line="73" column="61" selection-start-line="73" selection-start-column="61" selection-end-line="73" selection-end-column="61" />
+        <state relative-caret-position="228">
+          <caret line="12" column="47" lean-forward="true" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
           <folding>
             <element signature="e#2441#2447#0" expanded="true" />
             <element signature="e#45010#45016#0" expanded="true" />
