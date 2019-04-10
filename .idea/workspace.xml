@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0324ca41-2a3e-4af2-9137-b110598c75fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/slt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/iesl.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/uom.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/slt.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/slt.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <list id="16f5137d-dae8-49c5-b7cf-d18b0962dd26" name="shelve" comment="" />
@@ -18,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="159" column="35" selection-start-line="159" selection-start-column="35" selection-end-line="159" selection-end-column="35" />
+            <state relative-caret-position="192">
+              <caret line="197" column="16" selection-start-line="197" selection-start-column="16" selection-end-line="197" selection-end-column="16" />
               <folding>
                 <element signature="e#2024#2030#0" expanded="true" />
                 <element signature="e#2440#2446#0" expanded="true" />
@@ -45,6 +48,7 @@
       <find>button</find>
       <find>sliot</find>
       <find>spon</find>
+      <find>galler</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -59,8 +63,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="70" />
-    <option name="y" value="-9" />
+    <option name="x" value="813" />
+    <option name="y" value="25" />
     <option name="width" value="940" />
     <option name="height" value="1090" />
   </component>
@@ -319,17 +323,23 @@
       <option name="project" value="LOCAL" />
       <updated>1554898097462</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="spelling">
+      <created>1554898598563</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1554898598563</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22570000" />
+    <option name="totallyTimeSpent" value="23933000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="56" y="-7" width="1487" height="878" extended-state="6" />
-    <editor active="true" />
+    <frame x="651" y="20" width="752" height="872" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17379117" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3583815" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -410,7 +420,8 @@
     <MESSAGE value="reformatted code" />
     <MESSAGE value="fb" />
     <MESSAGE value="and-&gt;or" />
-    <option name="LAST_COMMIT_MESSAGE" value="and-&gt;or" />
+    <MESSAGE value="spelling" />
+    <option name="LAST_COMMIT_MESSAGE" value="spelling" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/speaker-details.html">
@@ -440,10 +451,30 @@
     <entry file="file://$PROJECT_DIR$/img/slt.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/bootstrap/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="5" column="5471" selection-start-line="5" selection-start-column="5471" selection-end-line="5" selection-end-column="5471" />
+          <folding>
+            <element signature="e#58844#59044#2" expanded="true" />
+            <element signature="e#59252#59401#2" expanded="true" />
+            <element signature="e#59903#60049#2" expanded="true" />
+            <element signature="e#60350#60516#1" expanded="true" />
+            <element signature="e#72112#72355#2" expanded="true" />
+            <element signature="e#73222#73471#2" expanded="true" />
+            <element signature="e#100341#100531#2" expanded="true" />
+            <element signature="e#100577#100767#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/iesl.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="159" column="35" selection-start-line="159" selection-start-column="35" selection-end-line="159" selection-end-column="35" />
+        <state relative-caret-position="192">
+          <caret line="197" column="16" selection-start-line="197" selection-start-column="16" selection-end-line="197" selection-end-column="16" />
           <folding>
             <element signature="e#2024#2030#0" expanded="true" />
             <element signature="e#2440#2446#0" expanded="true" />
