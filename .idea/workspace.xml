@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0324ca41-2a3e-4af2-9137-b110598c75fb" name="Default Changelist" comment="deleted sepaker">
+    <list default="true" id="0324ca41-2a3e-4af2-9137-b110598c75fb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/6.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <list id="16f5137d-dae8-49c5-b7cf-d18b0962dd26" name="shelve" comment="" />
@@ -24,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="212" column="40" selection-start-line="212" selection-start-column="40" selection-end-line="212" selection-end-column="40" />
+            <state relative-caret-position="342">
+              <caret line="90" column="114" selection-start-line="90" selection-start-column="114" selection-end-line="90" selection-end-column="114" />
               <folding>
                 <element signature="e#2024#2030#0" expanded="true" />
                 <element signature="e#2440#2446#0" expanded="true" />
@@ -95,12 +89,6 @@
             <path>
               <item name="sliotchallenge" type="b2602c69:ProjectViewProjectNode" />
               <item name="sliotchallenge" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="gallery" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sliotchallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sliotchallenge" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -158,7 +146,7 @@
       <workItem from="1554874477568" duration="6189000" />
       <workItem from="1554889277644" duration="6451000" />
       <workItem from="1554896019412" duration="1329000" />
-      <workItem from="1554940482450" duration="873000" />
+      <workItem from="1554940482450" duration="3127000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1554856729600</created>
@@ -370,11 +358,39 @@
       <option name="project" value="LOCAL" />
       <updated>1554900756303</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="added 7,8 images removed department logo">
+      <created>1554941465792</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1554941465792</updated>
+    </task>
+    <task id="LOCAL-00032" summary="compressed images">
+      <created>1554942182837</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1554942182837</updated>
+    </task>
+    <task id="LOCAL-00033" summary="d-&gt;D in description">
+      <created>1554942339544</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1554942339544</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Removed items">
+      <created>1554943230798</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1554943230798</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25852000" />
+    <option name="totallyTimeSpent" value="28106000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="-7" width="1487" height="878" extended-state="6" />
@@ -452,10 +468,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="icon changes deleted unneeded folders with images" />
-    <MESSAGE value="removed" />
-    <MESSAGE value="added project generated files" />
-    <MESSAGE value="some changes" />
     <MESSAGE value="added theme color meta" />
     <MESSAGE value="section header" />
     <MESSAGE value="Edited the about section" />
@@ -477,7 +489,11 @@
     <MESSAGE value="logo borders" />
     <MESSAGE value="deleted sepaker" />
     <MESSAGE value="about -&gt; what" />
-    <option name="LAST_COMMIT_MESSAGE" value="about -&gt; what" />
+    <MESSAGE value="added 7,8 images removed department logo" />
+    <MESSAGE value="compressed images" />
+    <MESSAGE value="d-&gt;D in description" />
+    <MESSAGE value="Removed items" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed items" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/speaker-details.html" />
@@ -528,8 +544,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="212" column="40" selection-start-line="212" selection-start-column="40" selection-end-line="212" selection-end-column="40" />
+        <state relative-caret-position="342">
+          <caret line="90" column="114" selection-start-line="90" selection-start-column="114" selection-end-line="90" selection-end-column="114" />
           <folding>
             <element signature="e#2024#2030#0" expanded="true" />
             <element signature="e#2440#2446#0" expanded="true" />
